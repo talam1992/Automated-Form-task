@@ -1,2 +1,7 @@
 # Automated Form task
- Automate my daily task
+
+## @Author: Timothy Lam
+
+ Automate my daily task:
+
+	* Attendance
