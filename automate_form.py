@@ -31,7 +31,7 @@ def attendance():
     time_in_h.send_keys('11:00')
     time_out_h.send_keys('18:00')
     time_out_m.send_keys('30')
-    #note.send_keys("Tim's attendance")
+    #note.send_keys("My attendance")
     form.click()
 
 
